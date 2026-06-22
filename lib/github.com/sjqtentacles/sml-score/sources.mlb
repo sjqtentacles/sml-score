@@ -1,0 +1,12 @@
+(* Source files for the sml-score library, in dependency order.
+   Vendored sjqtentacles dependencies are listed first. *)
+
+$(SML_LIB)/basis/basis.mlb
+
+../sml-music/music.sig
+../sml-music/music.sml
+../sml-midi/midi.sig
+../sml-midi/midi.sml
+
+score.sig
+score.sml

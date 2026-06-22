@@ -1,0 +1,6 @@
+package github.com/sjqtentacles/sml-score
+
+require {
+  github.com/sjqtentacles/sml-music 1
+  github.com/sjqtentacles/sml-midi 1
+}
