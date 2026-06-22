@@ -1,0 +1,6 @@
+(* Source files for the sml-midi library, in dependency order. *)
+
+$(SML_LIB)/basis/basis.mlb
+
+midi.sig
+midi.sml
